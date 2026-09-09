@@ -1,0 +1,44 @@
+name: Update NIST Standards Sitemaps
+
+on:
+  schedule:
+    # Run every Monday at 05:00 UTC
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  harvest-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Harvest NIST Standards & Generate Sitemaps
+        run: |
+          python generate_nist_sitemap.py
+
+      - name: Commit and push updates
+        run: |
+          git config user.name "Aaron Sells"
+          git config user.email "aaron.b.sells@nasa.gov"
+          git add nist_standards_final.xml nist_standards_all.xml nist_pdf_urls.txt nist_catalog.json
+          if git diff --staged --quiet; then
+            echo "No changes in NIST standards. Skipping commit."
+          else
+            git commit -m "chore(sync): automated NIST standards update [skip ci]"
+            git push origin master
+          fi
