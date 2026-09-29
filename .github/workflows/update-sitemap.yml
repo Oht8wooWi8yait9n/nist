@@ -40,5 +40,17 @@ jobs:
             echo "No changes in NIST standards. Skipping commit."
           else
             git commit -m "chore(sync): automated NIST standards update [skip ci]"
-            git push origin master
+            for attempt in {1..5}; do
+              echo "Pushing updates to origin master (attempt $attempt/5)..."
+              if git push origin master; then
+                echo "Successfully pushed updates."
+                exit 0
+              fi
+              echo "Push failed. Waiting 5s before retrying..."
+              sleep 5
+              git pull --rebase origin master || true
+            done
+            echo "Error: Failed to push to origin master after 5 attempts."
+            exit 1
           fi
+

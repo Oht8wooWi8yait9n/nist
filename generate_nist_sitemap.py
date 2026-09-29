@@ -127,6 +127,17 @@ def process_record(record):
     return record
 
 
+def format_lastmod(date_str, fallback_today):
+    """Formats CSRC publication date (e.g. M/D/YYYY) to ISO YYYY-MM-DD for zero-churn sitemaps."""
+    if date_str:
+        try:
+            dt = datetime.strptime(date_str, "%m/%d/%Y")
+            return dt.strftime("%Y-%m-%d")
+        except Exception:
+            pass
+    return fallback_today
+
+
 def generate_sitemap_xml(docs, output_path):
     """Generates a compliant flat <urlset> XML sitemap."""
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -140,7 +151,7 @@ def generate_sitemap_xml(docs, output_path):
         loc_elem.text = doc["pdf_url"]
 
         lastmod_elem = ET.SubElement(url_elem, "lastmod")
-        lastmod_elem.text = today
+        lastmod_elem.text = format_lastmod(doc.get("date"), today)
 
         freq_elem = ET.SubElement(url_elem, "changefreq")
         freq_elem.text = "weekly"
@@ -204,6 +215,16 @@ def main():
             completed += 1
             if completed % 250 == 0 or completed == len(all_raw_records):
                 print(f"  Processed {completed}/{len(all_raw_records)} publications...")
+
+    # Deterministically sort resolved records by series, number, and PDF URL for zero-churn diffs
+    resolved_records.sort(
+        key=lambda r: (
+            r.get("series", "").upper(),
+            r.get("number", "").upper(),
+            r.get("pdf_url") or "",
+            r.get("detail_url", "")
+        )
+    )
 
     # Filter records with valid PDFs
     docs_with_pdf = [r for r in resolved_records if r.get("pdf_url")]
