@@ -362,6 +362,7 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1318.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1326.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1332.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1334.pdf
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1339.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1347.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1352.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-16.pdf
@@ -454,6 +455,7 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-125B.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-126r1.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-126r2.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126r3.pdf
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126r4.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126A.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126Ar4.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-128.pdf
@@ -554,6 +556,7 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-232.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-233.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-234.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-236.pdf
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-238.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-28ver2.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-34r1.pdf

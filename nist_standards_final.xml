@@ -2185,6 +2185,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1339.pdf</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1347.pdf</loc>
     <lastmod>2026-08-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -2733,6 +2739,12 @@
   <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126r3.pdf</loc>
     <lastmod>2018-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126r4.pdf</loc>
+    <lastmod>2026-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -3333,6 +3345,12 @@
   <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-236.pdf</loc>
     <lastmod>2025-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-238.pdf</loc>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

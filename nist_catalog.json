@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T11:00:38.095295+00:00",
-  "total_final_standards": 628,
-  "total_all_standards": 1372,
+  "generated_at": "2026-09-29T11:02:34.726831+00:00",
+  "total_final_standards": 631,
+  "total_all_standards": 1376,
   "documents": [
     {
       "series": "AI",
@@ -7601,8 +7601,8 @@
       "date": "6/17/2026",
       "detail_path": "/pubs/sp/1339/final",
       "detail_url": "https://csrc.nist.gov/pubs/sp/1339/final",
-      "pdf_url": null,
-      "description": ""
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1339.pdf",
+      "description": "Operational Technology (OT) backups are vital for recovery from reliability or cyber incidents. Effective backup management in an OT environment involves integrating backups into the change management process, creating them regularly, testing them, and reviewing them during recovery exercises."
     },
     {
       "series": "SP",
@@ -9885,23 +9885,23 @@
       "series": "SP",
       "number": "800-126 Rev. 4",
       "title": "Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.4",
-      "status": "Final",
-      "date": "6/08/2026",
-      "detail_path": "/pubs/sp/800/126/r4/final",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/126/r4/final",
-      "pdf_url": null,
-      "description": ""
-    },
-    {
-      "series": "SP",
-      "number": "800-126 Rev. 4",
-      "title": "Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.4",
       "status": "Draft",
       "date": "12/11/2025",
       "detail_path": "/pubs/sp/800/126/r4/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/126/r4/ipd",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126r4.ipd.pdf",
       "description": "The Security Content Automation Protocol (SCAP) is a suite of specifications that standardize the format and nomenclature by which software flaw and security configuration information is communicated, both to machines and humans. This publication, along with its annex (NIST Special Publication 800-126Ar1) and a set of schemas, collectively define the technical composition of SCAP version 1.4 in terms of its component specifications, their interrelationships and interoperation, and the requirements for SCAP content."
+    },
+    {
+      "series": "SP",
+      "number": "800-126 Rev. 4",
+      "title": "Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.4",
+      "status": "Final",
+      "date": "6/08/2026",
+      "detail_path": "/pubs/sp/800/126/r4/final",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/126/r4/final",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-126r4.pdf",
+      "description": "The Security Content Automation Protocol (SCAP) is a suite of specifications that standardize the format and nomenclature by which software flaw and security configuration information is communicated, both to machines and humans. This publication, along with its annex (NIST Special Publication 800-126Ar4) and a set of schemas, collectively define the technical composition of SCAP version 1.4 in terms of its component specifications, their interrelationships and interoperation, and the requirements for SCAP content."
     },
     {
       "series": "SP",
@@ -12397,8 +12397,8 @@
       "date": "7/22/2026",
       "detail_path": "/pubs/sp/800/209/r1/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/209/r1/ipd",
-      "pdf_url": null,
-      "description": ""
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-209r1.ipd.pdf",
+      "description": "Storage technology has evolved in two primary directions: increased media storage capacity and architectural changes that provide a software-based abstraction over all forms of background storage technologies. However, this architectural shift has increased management complexity and the probability of configuration errors and associated security threats. This document provides an overview of the evolution of the storage technology landscape, current security threats, and the resultant risks to provide a comprehensive set of security recommendations in the form of storage security controls. These recommendations span security management areas that are common to an information technology (IT) infrastructure as well as those specific to storage infrastructure."
     },
     {
       "series": "SP",
@@ -13046,8 +13046,8 @@
       "date": "5/21/2026",
       "detail_path": "/pubs/sp/800/238/final",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/238/final",
-      "pdf_url": null,
-      "description": ""
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-238.pdf",
+      "description": "Throughout Fiscal Year 2025 (FY 2025) \u2014 from October 1, 2024, through September 30, 2025 \u2014 the NIST Information Technology Laboratory (ITL) Cybersecurity and Privacy Program successfully responded to numerous challenges and opportunities in security and privacy. This Annual Report highlights the ITL Cybersecurity and Privacy Program\u2019s FY 2025 research activities, including the ongoing participation and development of international standards, research, and practical applications in several key priority, including improved software and supply chain cybersecurity, work on IoT cybersecurity guidelines, National Cybersecurity Center of Excellence (NCCoE) projects, a new comment site for NIST\u2019s Risk Management Framework, the release of a Phish scale, and progress in the Identity and Access Management program."
     },
     {
       "series": "SP",
