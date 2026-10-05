@@ -331,6 +331,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.36G.ipd.pdf</loc>
+    <lastmod>2026-09-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.37.ipd.pdf</loc>
     <lastmod>2024-10-31</lastmod>
     <changefreq>weekly</changefreq>
@@ -343,8 +349,8 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.37B.ipd.pdf</loc>
-    <lastmod>2025-09-10</lastmod>
+    <loc>https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.37B.pdf</loc>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>

@@ -29,6 +29,7 @@ https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.36C.pdf
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.36D.pdf
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.36E.pdf
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.37A.pdf
+https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.37B.pdf
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.39-upd1.pdf
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04212016.pdf
 https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.41.pdf

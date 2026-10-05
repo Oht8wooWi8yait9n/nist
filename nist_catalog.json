@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T11:02:34.726831+00:00",
-  "total_final_standards": 631,
-  "total_all_standards": 1376,
+  "generated_at": "2026-10-05T11:36:44.974612+00:00",
+  "total_final_standards": 632,
+  "total_all_standards": 1377,
   "documents": [
     {
       "series": "AI",
@@ -621,6 +621,17 @@
     },
     {
       "series": "CSWP",
+      "number": "36G",
+      "title": "False Base Station: Applying 5G Cybersecurity and Privacy Capabilities",
+      "status": "Draft",
+      "date": "9/30/2026",
+      "detail_path": "/pubs/cswp/36/g/false-base-station-applying-5g-cybersecurity-and-p/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/cswp/36/g/false-base-station-applying-5g-cybersecurity-and-p/ipd",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.36G.ipd.pdf",
+      "description": "This white paper is part of a series called Applying 5G Cybersecurity and Privacy Capabilities, which covers 5G cybersecurity- and privacy-supporting capabilities that were implemented as part of the 5G Cybersecurity testbed at the National Cybersecurity Center of Excellence (NCCoE). This white paper provides details regarding security risks posed by False Base Stations (FBS) in 5G networks. It details how the availability of inexpensive, off-the-shelf hardware and software tools allows attackers to simulate legitimate cells and exploit pre-authentication vulnerabilities. Incremental standards improvements over several generations have addressed many of the risks posed by FBS, limiting privacy breaches and location tracking for users and making FBS less effective against 5G devices. This white paper evaluates multiple FBS scenarios using the NCCoE 5G Cybersecurity testbed to assess how the tested 5G devices respond to FBS attacks, including when they are still vulnerable to..."
+    },
+    {
+      "series": "CSWP",
       "number": "37",
       "title": "Automation of the NIST Cryptographic Module Validation Program: September 2024 Status Report",
       "status": "Draft",
@@ -647,10 +658,21 @@
       "title": "Automation of the NIST Cryptographic Module Validation Program: April 2025 Status Report",
       "status": "Draft",
       "date": "9/10/2025",
-      "detail_path": "/pubs/cswp/37/b/automation-of-the-nist-cmvp-april-2025/ipd",
-      "detail_url": "https://csrc.nist.gov/pubs/cswp/37/b/automation-of-the-nist-cmvp-april-2025/ipd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.37B.ipd.pdf",
+      "detail_path": "/pubs/cswp/37/b/automation-of-the-cmvp-april-2025-status-report/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/cswp/37/b/automation-of-the-cmvp-april-2025-status-report/ipd",
+      "pdf_url": null,
       "description": "The Cryptographic Module Validation Program (CMVP) validates third-party assertions that cryptographic module implementations satisfy the requirements of Federal Information Processing Standards (FIPS) Publication 140-3, Security Requirements for Cryptographic Modules. The current cryptographic module validation process is heavily manual, out of sync with the speed of technology industry development and deployment. Thus, the NIST National Cybersecurity Center of Excellence (NCCoE) has undertaken the Automated Cryptographic Module Validation Project (ACMVP) to support improvement in the efficiency and timeliness of CMVP operations and processes. The goal is to demonstrate a suite of automated tools that have the potential to make the FIPS 140-3 validation process more efficient and provide higher assurances that test findings reported for modules meet FIPS 140-3 requirements. This report is the second status report for the project, which describes progress made between September 2024..."
+    },
+    {
+      "series": "CSWP",
+      "number": "37B",
+      "title": "Automation of the NIST Cryptographic Module Validation Program: April 2025 Status Report",
+      "status": "Final",
+      "date": "9/30/2026",
+      "detail_path": "/pubs/cswp/37/b/automation-of-the-cmvp-april-2025-status-report/final",
+      "detail_url": "https://csrc.nist.gov/pubs/cswp/37/b/automation-of-the-cmvp-april-2025-status-report/final",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.37B.pdf",
+      "description": "The Cryptographic Module Validation Program (CMVP) validates third-party assertions that cryptographic module implementations satisfy the requirements of Federal Information Processing Standards (FIPS) Publication 140-3, Security Requirements for Cryptographic Modules. The current cryptographic module validation process is heavily manual and out of sync with the pace of industry development and deployment of new technology. Thus, the National Institute of Standards and Technology (NIST) National Cybersecurity Center of Excellence (NCCoE) has undertaken the Automated Cryptographic Module Validation Project (ACMVP) to support improvement in the efficiency and timeliness of CMVP operations and processes. The goal is to demonstrate a suite of automated tools and capabilities that make the FIPS 140-3 validation process more efficient and provide higher assurances that test findings reported for modules meet FIPS 140-3 requirements. This is the second status update report for the project,..."
     },
     {
       "series": "CSWP",
