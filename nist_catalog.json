@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T12:06:36.649060+00:00",
+  "generated_at": "2026-10-12T12:50:00.478662+00:00",
   "total_final_standards": 632,
-  "total_all_standards": 1377,
+  "total_all_standards": 1378,
   "documents": [
     {
       "series": "AI",
@@ -11816,6 +11816,17 @@
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/185/final",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-185.pdf",
       "description": "This Recommendation specifies four SHA-3-derived functions: cSHAKE, KMAC, TupleHash, and ParallelHash. cSHAKE is a customizable variant of the SHAKE functions defined in FIPS 202. KMAC (for KECCAK Message Authentication Code) is a variable-length message authentication code algorithm based on KECCAK; it can also be used as a pseudorandom function. TupleHash is a variable-length hash function designed to hash tuples of input strings unambiguously. ParallelHash is a variable-length hash function that can hash very long messages in parallel."
+    },
+    {
+      "series": "SP",
+      "number": "800-185 Rev. 1",
+      "title": "SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash, and ParallelHash",
+      "status": "Draft",
+      "date": "10/08/2026",
+      "detail_path": "/pubs/sp/800/185/r1/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/185/r1/ipd",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-185r1.ipd.pdf",
+      "description": "This recommendation specifies four types of SHA-3-derived functions: cSHAKE, KMAC, TupleHash, and ParallelHash, each defined for 128-and 256-bit security strengths. cSHAKE is a customizable variant of the SHAKE function, as defined in Federal Information Processing Standards publication (FIPS) 202. KMAC (Keccak Message Authentication Code) is a variable-length message authentication code algorithm based on Keccak (specified in FIPS 202) that can also be used as a pseudorandom function. TupleHash is a variable-length hash function designed to hash tuples of input strings without trivial collisions. ParallelHash is a variable-length hash function that can hash very long messages in parallel. This revision adds a streaming mode for XOF computations, which allows applications to process input and request output incrementally when the total input or output length is not known in advance."
     },
     {
       "series": "SP",
