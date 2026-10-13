@@ -261,13 +261,30 @@ def main():
 
     # D. Full Catalog Metadata
     catalog_path = os.path.join(script_dir, "nist_catalog.json")
-    with open(catalog_path, "w", encoding="utf-8") as f:
-        json.dump({
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-            "total_final_standards": len(final_docs),
-            "total_all_standards": len(all_docs),
-            "documents": resolved_records
-        }, f, indent=2)
+    existing_generated_at = None
+    if os.path.exists(catalog_path):
+        try:
+            with open(catalog_path, "r", encoding="utf-8") as f:
+                prev_catalog = json.load(f)
+            if (prev_catalog.get("total_final_standards") == len(final_docs) and
+                prev_catalog.get("total_all_standards") == len(all_docs) and
+                prev_catalog.get("documents") == resolved_records):
+                existing_generated_at = prev_catalog.get("generated_at")
+        except Exception:
+            pass
+
+    generated_at_str = existing_generated_at or datetime.now(timezone.utc).isoformat()
+    catalog_json_str = json.dumps({
+        "generated_at": generated_at_str,
+        "total_final_standards": len(final_docs),
+        "total_all_standards": len(all_docs),
+        "documents": resolved_records
+    }, indent=2) + "\n"
+
+    # Write only if changed
+    if not os.path.exists(catalog_path) or open(catalog_path, "r", encoding="utf-8").read() != catalog_json_str:
+        with open(catalog_path, "w", encoding="utf-8") as f:
+            f.write(catalog_json_str)
     print(f"Generated: {catalog_path}")
 
     elapsed = time.time() - start_time
