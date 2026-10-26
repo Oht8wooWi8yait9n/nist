@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T12:50:00.478662+00:00",
+  "generated_at": "2026-10-26T10:49:30.361280+00:00",
   "total_final_standards": 632,
-  "total_all_standards": 1378,
+  "total_all_standards": 1380,
   "documents": [
     {
       "series": "AI",
@@ -9289,6 +9289,17 @@
     },
     {
       "series": "SP",
+      "number": "800-100 Rev. 1",
+      "title": "Information Security Handbook: A Guide for Executive Leadership",
+      "status": "Draft",
+      "date": "10/21/2026",
+      "detail_path": "/pubs/sp/800/100/r1/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/100/r1/ipd",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-100r1.ipd.pdf",
+      "description": "This document is a high-level guide to help executive leadership in both the public and private sector understand key cybersecurity topics, including governance, risk management,&#160;information exchange,&#160; security awareness and training, contingency planning, configuration management, and incident response. It follows the general organization of the NIST Cybersecurity Framework to emphasize the&#160; relationships between these core concepts and points to other NIST publications for more detailed information and implementation guidance.&#160;"
+    },
+    {
+      "series": "SP",
       "number": "800-101",
       "title": "Guidelines on Cell Phone Forensics",
       "status": "Withdrawn",
@@ -12795,6 +12806,17 @@
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/221/final",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-221.pdf",
       "description": "All enterprises should ensure that information and communications technology (ICT) risk receives appropriate attention within their enterprise risk management (ERM) programs. This document is intended to help individual organizations within an enterprise improve their ICT risk management (ICTRM). This can enable enterprises and their component organizations to better identify, assess, and manage their ICT risks in the context of their broader mission and business objectives. This document explains the value of rolling up and integrating risks that may be addressed at lower system and organizational levels to the broader enterprise level by focusing on the use of ICT risk registers as input to the enterprise risk profile."
+    },
+    {
+      "series": "SP",
+      "number": "800-221 Rev. 1",
+      "title": "Enterprise Impact of Information and Communications Technology Risk: Governing and Managing ICT Risk Programs Within an Enterprise Risk Portfolio",
+      "status": "Draft",
+      "date": "10/22/2026",
+      "detail_path": "/pubs/sp/800/221/r1/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/221/r1/ipd",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-221r1.ipd.pdf",
+      "description": "All enterprises should ensure that information and communications technology (ICT) risk receives appropriate attention within their enterprise risk management (ERM) programs. This document is intended to help individual organizations within an enterprise improve their ICT risk management (ICTRM) in alignment with the NIST Cybersecurity Framework (CSF) 2.0. This can enable enterprises and their component organizations to better identify, assess, and manage their ICT risks in the context of their broader mission and business objectives. This document explains the value of integrating risks that may be addressed at lower system and organizational levels to the broader enterprise level by focusing on the use of ICT risk registers as input to the enterprise risk profile. Consistent with CSF 2.0\u2019s Govern function, this publication emphasizes that cybersecurity governance should be central to all risk management activities to ensure that ICT risk management aligns with enterprise strategy and..."
     },
     {
       "series": "SP",
