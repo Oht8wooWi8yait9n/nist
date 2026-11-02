@@ -334,6 +334,7 @@ https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8537.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8539.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8540.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8545.pdf
+https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8547.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8552.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8557.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2025/NIST.IR.8558.pdf

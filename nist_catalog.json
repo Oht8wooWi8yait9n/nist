@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T10:49:30.361280+00:00",
-  "total_final_standards": 632,
-  "total_all_standards": 1380,
+  "generated_at": "2026-11-02T13:12:30.466466+00:00",
+  "total_final_standards": 633,
+  "total_all_standards": 1381,
   "documents": [
     {
       "series": "AI",
@@ -7130,6 +7130,17 @@
       "detail_url": "https://csrc.nist.gov/pubs/ir/8547/ipd",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf",
       "description": "This report describes NIST\u2019s expected approach to transitioning from quantum-vulnerable cryptographic algorithms to post-quantum digital signature algorithms and key-establishment schemes. It identifies existing quantum-vulnerable cryptographic standards and the quantum-resistant standards to which information technology products and services will need to transition. It is intended to foster engagement with industry, standards organizations, and relevant agencies to facilitate and accelerate the adoption of post-quantum cryptography."
+    },
+    {
+      "series": "IR",
+      "number": "8547",
+      "title": "Transition to Post-Quantum Cryptography Standards",
+      "status": "Final",
+      "date": "10/27/2026",
+      "detail_path": "/pubs/ir/8547/final",
+      "detail_url": "https://csrc.nist.gov/pubs/ir/8547/final",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8547.pdf",
+      "description": "This report describes NIST\u2019s approach to transitioning from quantum-vulnerable cryptographic algorithms to post-quantum digital signature algorithms and key-establishment schemes. It identifies existing quantum-vulnerable cryptographic standards and the quantum-resistant standards to which information technology products and services will need to transition. It is intended to foster engagement with industry, standards organizations, and relevant agencies to facilitate and accelerate the adoption of post-quantum cryptography. It also supports the implementation of Executive Order 14412 and OMB Memorandum M-26-15, which direct federal agencies to prioritize the migration of their most sensitive systems to post-quantum cryptography."
     },
     {
       "series": "IR",
