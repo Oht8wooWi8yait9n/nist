@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T13:12:30.466466+00:00",
-  "total_final_standards": 633,
-  "total_all_standards": 1381,
+  "generated_at": "2026-11-09T13:40:16.639204+00:00",
+  "total_final_standards": 634,
+  "total_all_standards": 1382,
   "documents": [
     {
       "series": "AI",
@@ -838,6 +838,17 @@
       "detail_url": "https://csrc.nist.gov/pubs/cswp/50/small-business-cybersecurity-non-employer-firms/ipd",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.50.ipd.pdf",
       "description": "This report is designed to help small businesses use the NIST Cybersecurity Framework (CSF) 2.0&#160;to manage their cybersecurity risks. The document is tailored to the smallest of businesses\u2014those with no employees other than the owner, or \u201cnon-employer\u201d firms as defined by the U.S. Small Business Administration. These firms are also often colloquially referred to as \u201csolopreneurs.\u201d While written for non-employer firms, the information in this document will also be useful to businesses with very few employees or with minimal IT infrastructure. The goal is to introduce fundamentals of a small business cybersecurity program in non-technical language to set a solid cybersecurity risk management foundation. Considerations for maturing cybersecurity risk management as the business scales are included, also making the document useful for entities of varying sizes. This publication is not all-encompassing, and implementation of a cybersecurity risk management strategy will vary based on the..."
+    },
+    {
+      "series": "CSWP",
+      "number": "50",
+      "title": "Small Business Cybersecurity: Non-Employer Firms",
+      "status": "Final",
+      "date": "11/02/2026",
+      "detail_path": "/pubs/cswp/50/small-business-cybersecurity-non-employer-firms/final",
+      "detail_url": "https://csrc.nist.gov/pubs/cswp/50/small-business-cybersecurity-non-employer-firms/final",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.50.pdf",
+      "description": "This report is designed to help small businesses use the NIST Cybersecurity Framework (CSF) 2.0 &#160;REF Ref_1 \\h &#160;\\* MERGEFORMAT   08D0C9EA79F9BACE118C8200AA004BA90B0200000008000000060000005200650066005F0031000000 &#160;REF Ref_1 \\h &#160;\\* MERGEFORMAT   08D0C9EA79F9BACE118C8200AA004BA90B0200000008000000060000005200650066005F0031000000 &#160;REF Ref_1 \\r \\h &#160;\\* MERGEFORMAT [1]  08D0C9EA79F9BACE118C8200AA004BA90B0200000008000000060000005200650066005F0031000000  to manage their cybersecurity risks. The document is tailored to the smallest of businesses \u2014 those with no employees other than the owner, or \u201cnon-employer\u201d firms as defined by the U.S. Small Business Administration. These firms are also often colloquially referred to as \u201csolopreneurs.\u201d While written for non-employer firms, the information in this document may also be useful to businesses with very few employees or with minimal IT infrastructure. The goal is to introduce the fundamentals of a small business cybersecurity program in non-technical..."
     },
     {
       "series": "CSWP",
@@ -3285,7 +3296,7 @@
       "series": "IR",
       "number": "7621 Rev. 1",
       "title": "Small Business Information Security: The Fundamentals",
-      "status": "Final",
+      "status": "Withdrawn",
       "date": "11/03/2016",
       "detail_path": "/pubs/ir/7621/r1/final",
       "detail_url": "https://csrc.nist.gov/pubs/ir/7621/r1/final",
@@ -7353,6 +7364,17 @@
     },
     {
       "series": "IR",
+      "number": "8621",
+      "title": "NIST Workshop on SI Incident Management",
+      "status": "Final",
+      "date": "11/02/2026",
+      "detail_path": "/pubs/ir/8621/final",
+      "detail_url": "https://csrc.nist.gov/pubs/ir/8621/final",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8621.pdf",
+      "description": "The NIST Workshop on SI Incident Management convened over 400 experts across government, frontier-model developers, cloud and cybersecurity providers, academia, standards organizations, and civil society to examine how organizations can prepare for, detect, handle, and recover from SI-related incidents. Motivated by federal directives, the workshop addressed the need for standards, response frameworks, and technical incident response capabilities as SI systems expand across critical infrastructure. To guide these efforts, participants framed SI incident management across two interrelated domains: cybersecurity attacks that target SI systems and incidents that stem from SI misuse, anomalous behavior, or severe operational malfunctions resulting in harm. Discussions and technical presentations highlighted the limitations of traditional, deterministic incident response life cycles when applied to probabilistic, autonomous, and deeply integrated SI systems. Participants emphasized critical..."
+    },
+    {
+      "series": "IR",
       "number": "8623",
       "title": "Cybersecurity Framework 2.0 Community Profile for Federal Agency Open Radio Access Network (O-RAN) Deployment",
       "status": "Draft",
@@ -9454,6 +9476,17 @@
     },
     {
       "series": "SP",
+      "number": "800-108 Rev. 2",
+      "title": "Pre-Draft Call for Comments: Recommendation for Key Derivation Using Pseudorandom Functions",
+      "status": "Draft",
+      "date": "11/04/2026",
+      "detail_path": "/pubs/sp/800/108/r2/iprd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/108/r2/iprd",
+      "pdf_url": null,
+      "description": ""
+    },
+    {
+      "series": "SP",
       "number": "800-11",
       "title": "The Impact of the FCC&#39;s Open Network Architecture on NS/EP Telecommunications Security",
       "status": "Withdrawn",
@@ -11392,22 +11425,22 @@
       "series": "SP",
       "number": "800-172",
       "title": "Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171",
-      "status": "Draft",
-      "date": "7/06/2020",
-      "detail_path": "/pubs/sp/800/172/fpd",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/fpd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172-draft.pdf",
-      "description": "The protection of Controlled Unclassified Information (CUI) resident in nonfederal systems and organizations is of paramount importance to federal agencies and can directly impact the ability of the Federal Government to successfully conduct its essential missions and functions. This publication provides federal agencies with recommended enhanced security requirements for protecting the confidentiality of CUI: (1) when the information is resident in nonfederal systems and organizations; (2) when the nonfederal organization is not collecting or maintaining information on behalf of a federal agency or using or operating a system on behalf of an agency; and (3) where there are no specific safeguarding requirements for protecting the confidentiality of CUI prescribed by the authorizing law, regulation, or government-wide policy for the CUI category listed in the CUI Registry. The enhanced requirements apply only to components of nonfederal systems that process, store, or transmit CUI or..."
+      "status": "Withdrawn",
+      "date": "2/02/2021",
+      "detail_path": "/pubs/sp/800/172/final",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/final",
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "SP",
       "number": "800-172",
       "title": "Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171",
-      "status": "Withdrawn",
-      "date": "2/02/2021",
-      "detail_path": "/pubs/sp/800/172/final",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/final",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172.pdf",
+      "status": "Draft",
+      "date": "7/06/2020",
+      "detail_path": "/pubs/sp/800/172/fpd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/fpd",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172-draft.pdf",
       "description": "The protection of Controlled Unclassified Information (CUI) resident in nonfederal systems and organizations is of paramount importance to federal agencies and can directly impact the ability of the Federal Government to successfully conduct its essential missions and functions. This publication provides federal agencies with recommended enhanced security requirements for protecting the confidentiality of CUI: (1) when the information is resident in nonfederal systems and organizations; (2) when the nonfederal organization is not collecting or maintaining information on behalf of a federal agency or using or operating a system on behalf of an agency; and (3) where there are no specific safeguarding requirements for protecting the confidentiality of CUI prescribed by the authorizing law, regulation, or government-wide policy for the CUI category listed in the CUI Registry. The enhanced requirements apply only to components of nonfederal systems that process, store, or transmit CUI or..."
     },
     {
