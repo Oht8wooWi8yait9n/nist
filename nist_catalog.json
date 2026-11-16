@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T13:40:16.639204+00:00",
+  "generated_at": "2026-11-16T13:24:28.624082+00:00",
   "total_final_standards": 634,
-  "total_all_standards": 1382,
+  "total_all_standards": 1384,
   "documents": [
     {
       "series": "AI",
@@ -8860,6 +8860,17 @@
     },
     {
       "series": "SP",
+      "number": "2400-102 E2026",
+      "title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations",
+      "status": "Draft",
+      "date": "11/09/2026",
+      "detail_path": "/pubs/sp/2400-102/e2026/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/2400-102/e2026/ipd",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs//SpecialPublications/NIST.SP.2400-102e2026.ipd.pdf",
+      "description": "This NIST Special Publication 2400 report provides a taxonomy of concepts and defines terminology in the field of adversarial machine learning (AML). The taxonomy is arranged in a conceptual hierarchy that includes key types of ML methods, life cycle stages of attack, and attacker goals, objectives, capabilities, and knowledge. This report also identifies current challenges in the life cycle of SI systems and describes corresponding methods for mitigating and managing the consequences of those attacks. The terminology used in this report is consistent with the literature on AML and is complemented by a glossary of key terms associated with the security of SI systems. Taken together, the taxonomy and terminology are meant to inform other standards and future practice guides for assessing and managing the security of SI systems by establishing a common language for the rapidly developing AML landscape."
+    },
+    {
+      "series": "SP",
       "number": "404",
       "title": "Approaches to Privacy and Security in Computer Systems: Proceedings of a Conference Held at the National Bureau of Standards March 4-5, 1974",
       "status": "Final",
@@ -11425,22 +11436,22 @@
       "series": "SP",
       "number": "800-172",
       "title": "Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171",
-      "status": "Withdrawn",
-      "date": "2/02/2021",
-      "detail_path": "/pubs/sp/800/172/final",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/final",
-      "pdf_url": null,
-      "description": ""
-    },
-    {
-      "series": "SP",
-      "number": "800-172",
-      "title": "Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171",
       "status": "Draft",
       "date": "7/06/2020",
       "detail_path": "/pubs/sp/800/172/fpd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/fpd",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172-draft.pdf",
+      "description": "The protection of Controlled Unclassified Information (CUI) resident in nonfederal systems and organizations is of paramount importance to federal agencies and can directly impact the ability of the Federal Government to successfully conduct its essential missions and functions. This publication provides federal agencies with recommended enhanced security requirements for protecting the confidentiality of CUI: (1) when the information is resident in nonfederal systems and organizations; (2) when the nonfederal organization is not collecting or maintaining information on behalf of a federal agency or using or operating a system on behalf of an agency; and (3) where there are no specific safeguarding requirements for protecting the confidentiality of CUI prescribed by the authorizing law, regulation, or government-wide policy for the CUI category listed in the CUI Registry. The enhanced requirements apply only to components of nonfederal systems that process, store, or transmit CUI or..."
+    },
+    {
+      "series": "SP",
+      "number": "800-172",
+      "title": "Enhanced Security Requirements for Protecting Controlled Unclassified Information: A Supplement to NIST Special Publication 800-171",
+      "status": "Withdrawn",
+      "date": "2/02/2021",
+      "detail_path": "/pubs/sp/800/172/final",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/final",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172.pdf",
       "description": "The protection of Controlled Unclassified Information (CUI) resident in nonfederal systems and organizations is of paramount importance to federal agencies and can directly impact the ability of the Federal Government to successfully conduct its essential missions and functions. This publication provides federal agencies with recommended enhanced security requirements for protecting the confidentiality of CUI: (1) when the information is resident in nonfederal systems and organizations; (2) when the nonfederal organization is not collecting or maintaining information on behalf of a federal agency or using or operating a system on behalf of an agency; and (3) where there are no specific safeguarding requirements for protecting the confidentiality of CUI prescribed by the authorizing law, regulation, or government-wide policy for the CUI category listed in the CUI Registry. The enhanced requirements apply only to components of nonfederal systems that process, store, or transmit CUI or..."
     },
     {

@@ -4393,6 +4393,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs//SpecialPublications/NIST.SP.2400-102e2026.ipd.pdf</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nbsspecialpublication404.pdf</loc>
     <lastmod>1974-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -5751,6 +5757,12 @@
   <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172-draft.pdf</loc>
     <lastmod>2020-07-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172.pdf</loc>
+    <lastmod>2021-02-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
