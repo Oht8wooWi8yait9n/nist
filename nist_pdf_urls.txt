@@ -127,7 +127,6 @@ https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7275r3.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7284.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7285.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7290.pdf
-https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.7298r3.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7308.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7313.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7316.pdf
@@ -238,7 +237,6 @@ https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8170-upd.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8177.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8179.pdf
-https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8183.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8183r1.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-1.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-2.pdf
@@ -347,6 +345,7 @@ https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8607.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8610.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8611.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8615.pdf
+https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8616.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8618.pdf
 https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8621.pdf
 https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nbsir75-909.pdf
@@ -373,7 +372,6 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-4r2.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-1.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-10.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-11.pdf
-https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-12.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-13.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-14.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-15.pdf
@@ -528,7 +526,6 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204A.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204B.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204C.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204D.pdf
-https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-206.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207A.pdf
@@ -551,7 +548,6 @@ https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-221A.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-223.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-225.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-226.pdf
-https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-227.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-228-upd1.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-229.pdf
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-231.pdf

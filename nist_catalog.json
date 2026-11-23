@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T13:24:28.624082+00:00",
-  "total_final_standards": 634,
-  "total_all_standards": 1384,
+  "generated_at": "2026-11-23T15:44:32.096819+00:00",
+  "total_final_standards": 630,
+  "total_all_standards": 1374,
   "documents": [
     {
       "series": "AI",
@@ -920,23 +920,23 @@
       "series": "CSWP",
       "number": "9",
       "title": "A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems",
+      "status": "Draft",
+      "date": "7/09/2019",
+      "detail_path": "/pubs/cswp/9/a-taxonomic-approach-to-understanding-emerging-blo/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/cswp/9/a-taxonomic-approach-to-understanding-emerging-blo/ipd",
+      "pdf_url": null,
+      "description": ""
+    },
+    {
+      "series": "CSWP",
+      "number": "9",
+      "title": "A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems",
       "status": "Final",
       "date": "1/14/2020",
       "detail_path": "/pubs/cswp/9/a-taxonomic-approach-to-understanding-emerging-blo/final",
       "detail_url": "https://csrc.nist.gov/pubs/cswp/9/a-taxonomic-approach-to-understanding-emerging-blo/final",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.01142020.pdf",
       "description": "Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing within organizations and on the web. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues, such as enabling mass data collection and user tracking. Blockchain technology has the potential to alleviate these concerns: it can support the ability for users to control the custody of their own identifiers and credentials, enabling novel data ownership and governance models with built-in control and consent mechanisms. Hence, blockchain-based IDMSs, which could benefit both users and businesses, are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in blockchain architectures, governance models, and other salient features. Context is provided for the taxonomy through the description of related terms, emerging standards, and use cases..."
-    },
-    {
-      "series": "CSWP",
-      "number": "9",
-      "title": "A Taxonomic Approach to Understanding Emerging Blockchain Identity Management Systems",
-      "status": "Draft",
-      "date": "7/09/2019",
-      "detail_path": "/pubs/cswp/9/a-taxonomic-approach-to-understanding-emerging-blo/ipd",
-      "detail_url": "https://csrc.nist.gov/pubs/cswp/9/a-taxonomic-approach-to-understanding-emerging-blo/ipd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.07092019-draft.pdf",
-      "description": "Identity management systems (IDMSs) are widely used to provision user identities while managing authentication, authorization, and data sharing both within organizations as well as on the Internet more broadly. Traditional identity systems typically suffer from single points of failure, lack of interoperability, and privacy issues such as encouraging mass data collection and user tracking. Blockchain technology has the potential to support novel data ownership and governance models with built-in control and consent mechanisms, which may benefit both users and businesses by alleviating these concerns; as a result, blockchain-based IDMSs are beginning to proliferate. This work categorizes these systems into a taxonomy based on differences in architecture, governance models, and other salient features. We provide context for the taxonomy by describing related terms, emerging standards, and use cases, while highlighting relevant security and privacy considerations."
     },
     {
       "series": "FIPS",
@@ -2900,22 +2900,22 @@
       "series": "IR",
       "number": "7298 Rev. 3",
       "title": "Glossary of Key Information Security Terms",
-      "status": "Draft",
-      "date": "9/28/2018",
-      "detail_path": "/pubs/ir/7298/r3/ipd",
-      "detail_url": "https://csrc.nist.gov/pubs/ir/7298/r3/ipd",
-      "pdf_url": "/files/pubs/ir/7298/r3/ipd/docs/nistir-7298r3-draft.pdf",
-      "description": "This publication describes an online glossary of terms used in National Institute of Standards and Technology (NIST) and Committee on National Security Systems (CNSS)&#160; publications. This glossary utilizes a database of terms extracted from NIST Federal Information Processing Standards (FIPS), the NIST Special Publication (SP) 800 series, selected NIST Interagency and Internal Reports (NISTIRs), and from the Committee for National Security Systems Instruction 4009 (CNSSI-4009)."
+      "status": "Final",
+      "date": "7/03/2019",
+      "detail_path": "/pubs/ir/7298/r3/final",
+      "detail_url": "https://csrc.nist.gov/pubs/ir/7298/r3/final",
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "IR",
       "number": "7298 Rev. 3",
       "title": "Glossary of Key Information Security Terms",
-      "status": "Final",
-      "date": "7/03/2019",
-      "detail_path": "/pubs/ir/7298/r3/final",
-      "detail_url": "https://csrc.nist.gov/pubs/ir/7298/r3/final",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.7298r3.pdf",
+      "status": "Draft",
+      "date": "9/28/2018",
+      "detail_path": "/pubs/ir/7298/r3/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/ir/7298/r3/ipd",
+      "pdf_url": "/files/pubs/ir/7298/r3/ipd/docs/nistir-7298r3-draft.pdf",
       "description": "This publication describes an online glossary of terms used in National Institute of Standards and Technology (NIST) and Committee on National Security Systems (CNSS)&#160; publications. This glossary utilizes a database of terms extracted from NIST Federal Information Processing Standards (FIPS), the NIST Special Publication (SP) 800 series, selected NIST Interagency and Internal Reports (NISTIRs), and from the Committee for National Security Systems Instruction 4009 (CNSSI-4009)."
     },
     {
@@ -4649,22 +4649,22 @@
       "series": "IR",
       "number": "8183",
       "title": "Cybersecurity Framework Manufacturing Profile",
-      "status": "Withdrawn",
-      "date": "9/08/2017",
-      "detail_path": "/pubs/ir/8183/final",
-      "detail_url": "https://csrc.nist.gov/pubs/ir/8183/final",
-      "pdf_url": "/files/pubs/ir/8183/final/docs/nist.ir.8183.pdf",
-      "description": "This document provides the Cybersecurity Framework (CSF) implementation details developed for the manufacturing environment. The &#39;Manufacturing Profile&#39;&#160;of the Cybersecurity Framework can be used as a roadmap for reducing cybersecurity risk for manufacturers that is aligned with manufacturing sector goals and industry best practices. This Manufacturing Profile provides a voluntary, risk-based approach for managing cybersecurity activities and reducing cyber risk to manufacturing systems. The Manufacturing Profile is meant to enhance but not replace current cybersecurity standards and industry guidelines that the manufacturer is embracing."
+      "status": "Final",
+      "date": "5/20/2019",
+      "detail_path": "/pubs/ir/8183/upd1/final",
+      "detail_url": "https://csrc.nist.gov/pubs/ir/8183/upd1/final",
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "IR",
       "number": "8183",
       "title": "Cybersecurity Framework Manufacturing Profile",
-      "status": "Final",
-      "date": "5/20/2019",
-      "detail_path": "/pubs/ir/8183/upd1/final",
-      "detail_url": "https://csrc.nist.gov/pubs/ir/8183/upd1/final",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8183.pdf",
+      "status": "Withdrawn",
+      "date": "9/08/2017",
+      "detail_path": "/pubs/ir/8183/final",
+      "detail_url": "https://csrc.nist.gov/pubs/ir/8183/final",
+      "pdf_url": "/files/pubs/ir/8183/final/docs/nist.ir.8183.pdf",
       "description": "This document provides the Cybersecurity Framework (CSF) implementation details developed for the manufacturing environment. The &#39;Manufacturing Profile&#39;&#160;of the Cybersecurity Framework can be used as a roadmap for reducing cybersecurity risk for manufacturers that is aligned with manufacturing sector goals and industry best practices. This Manufacturing Profile provides a voluntary, risk-based approach for managing cybersecurity activities and reducing cyber risk to manufacturing systems. The Manufacturing Profile is meant to enhance but not replace current cybersecurity standards and industry guidelines that the manufacturer is embracing."
     },
     {
@@ -4730,8 +4730,8 @@
       "date": "5/28/2019",
       "detail_path": "/pubs/ir/8183/a/v2/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/ir/8183/a/v2/ipd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8183A-2-draft.pdf",
-      "description": "This guide provides example proof-of-concept solutions demonstrating how open-source and commercial off-the-shelf (COTS) products that are currently available today can be implemented in process-based manufacturing environments to satisfy the requirements in the Cybersecurity Framework (CSF) Manufacturing Profile [4] Low Security Level. The example proof-of-concept solutions include measured network, device, and operational performance impacts observed during the implementation. Depending on factors like size, sophistication, risk tolerance, and threat landscape, manufacturers should make their own determinations about the breadth of the proof-of-concept solutions they may voluntarily implement. The CSF Manufacturing Profile can be used as a roadmap for managing cybersecurity risk for manufacturers and is aligned with manufacturing sector goals and industry best practices. The Manufacturing Profile provides a voluntary, risk-based approach for managing cybersecurity activities and..."
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "IR",
@@ -5214,8 +5214,8 @@
       "date": "7/31/2019",
       "detail_path": "/pubs/ir/8259/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/ir/8259/ipd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8259-draft.pdf",
-      "description": "This publication is intended to help Internet of Things (IoT) device manufacturers understand the cybersecurity risks their customers face so IoT devices can provide cybersecurity features that make them at least minimally securable by the individuals and organizations who acquire and use them. The publication defines a core baseline of cybersecurity features that manufacturers may voluntarily adopt for IoT devices they produce. The core baseline addresses general cybersecurity risks faced by a generic customer. Manufacturers often know more about their customers and the risks they face, so the publication also provides information on how manufacturers can identify features beyond the core baseline most appropriate for their customers and implement those features to further improve how securable their IoT devices are. This approach can help lessen the cybersecurity-related efforts needed by IoT device customers, which in turn should reduce the prevalence and severity of IoT device..."
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "IR",
@@ -7353,6 +7353,17 @@
     },
     {
       "series": "IR",
+      "number": "8616",
+      "title": "ANSI/NIST-ITL 1-2025 Machine-Readable Specification: Technical Framework and Implementation",
+      "status": "Final",
+      "date": "11/16/2026",
+      "detail_path": "/pubs/ir/8616/final",
+      "detail_url": "https://csrc.nist.gov/pubs/ir/8616/final",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8616.pdf",
+      "description": "This report presents the ANSI/NIST-ITL 1-2025 requirements for exchanging biometric and forensic data using a machine-readable specification (MRS) that allows software tools to process the requirements directly. NIST developed a modular JSON architecture and an automated build process to manage, validate, and transform the MRS data using a proof-of-concept HTML specification directly from the JSON source. It demonstrates how the MRS can augment the base standard for developers, testers, and auditors to lower adoption barriers, reduce interpretation gaps, and provide a maintained digital companion to the ANSI/NIST-ITL 1-2025 specification."
+    },
+    {
+      "series": "IR",
       "number": "8618",
       "title": "Workshop Summary Report for \u201cCybersecurity for IoT Workshop: Future Directions\u201d",
       "status": "Final",
@@ -7828,23 +7839,23 @@
       "series": "SP",
       "number": "1800-12",
       "title": "Derived Personal Identity Verification (PIV) Credentials",
+      "status": "Final",
+      "date": "8/27/2019",
+      "detail_path": "/pubs/sp/1800/12/final",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/1800/12/final",
+      "pdf_url": null,
+      "description": ""
+    },
+    {
+      "series": "SP",
+      "number": "1800-12",
+      "title": "Derived Personal Identity Verification (PIV) Credentials",
       "status": "Draft",
       "date": "9/29/2017",
       "detail_path": "/pubs/sp/1800/12/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/1800/12/ipd",
       "pdf_url": null,
       "description": "Federal Information Processing (FIPS) Standards Publication 201-2, Personal Identity Verification (PIV) of Federal Employees and Contractors,&#160;establishes a standard for a PIV system based on secure and reliable forms of identity credentials issued by the federal government to its employees and contractors. These credentials are intended to authenticate individuals who require access to federally controlled facilities, information systems, and applications. In 2005, when FIPS 201 was first published, logical access was geared toward traditional computing devices (i.e., desktop and laptop computers) where the PIV card provides common authentication mechanisms through integrated smart card readers across the federal government. With the emergence of computing devices such as tablets, convertible&#160;computers, and in particular mobile devices, the use of PIV cards has proved challenging. Mobile devices lack the integrated smart card readers found in laptop and desktop computers and require..."
-    },
-    {
-      "series": "SP",
-      "number": "1800-12",
-      "title": "Derived Personal Identity Verification (PIV) Credentials",
-      "status": "Final",
-      "date": "8/27/2019",
-      "detail_path": "/pubs/sp/1800/12/final",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/1800/12/final",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-12.pdf",
-      "description": "Federal Information Processing Standards (FIPS) Publication 201-2, \u201cPersonal Identity Verification (PIV) of Federal Employees and Contractors,\u201d establishes a standard for a PIV system based on secure and reliable forms of identity credentials issued by the federal government to its employees and contractors. These credentials are intended to authenticate individuals to federally controlled facilities, information systems, and applications as part of access management. In 2005, when FIPS 201 was published, authentication of individuals was geared toward traditional computing devices (i.e., desktop and laptop&#160;computers) where the PIV Card provides common multifactor authentication mechanisms through integrated or external smart card readers, where available. With the emergence of computing devices, such as tablets, hybrid computers, and, in particular, mobile devices, the use of PIV Cards has proved to be challenging. Mobile devices lack the integrated smart card readers found in laptop..."
     },
     {
       "series": "SP",
@@ -7932,7 +7943,7 @@
       "detail_path": "/pubs/sp/1800/15/iprd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/1800/15/iprd",
       "pdf_url": null,
-      "description": "The goal of the Internet Engineering Task Force\u2019s manufacturer usage description (MUD) architecture is for Internet of Things (IoT) devices to behave as intended by the manufacturers of the devices. This is done by providing a standard way for manufacturers to identify each device\u2019s type and to indicate the network communications that it requires to perform its intended function and be resilient to network-based attacks. When MUD is used, the network will automatically permit the IoT device to perform as intended, and the network will prohibit all other device behaviors. The National Cybersecurity Center of Excellence (NCCoE) has demonstrated for IoT product developers and implementers the ability to ensure that when an IoT device connects to a home or small-business network, MUD can be used to automatically permit the device to send and receive only the traffic it requires to perform its intended function.  This National Institute of Standards and Technology (NIST) Cybersecurity..."
+      "description": ""
     },
     {
       "series": "SP",
@@ -8725,6 +8736,17 @@
       "detail_url": "https://csrc.nist.gov/pubs/sp/1800/42/ipd",
       "pdf_url": "https://www.nccoe.nist.gov/sites/default/files/2026-03/nist-sp-1800-42a-ipd_0.pdf",
       "description": "Mobile Driver\u2019s Licenses, and Verifiable Digital Credentials more broadly, represent an emerging technology with the capability to enhance the methods we use to prove identity both in-person and online. Many sectors stand to benefit from this emerging technology, including financial institutions seeking to enhance the security, privacy, usability, and reliability of online identity services. This practice guide captures insights generated through engagement with a robust cohort of industry collaborators and the lessons learned by developing a functional online mDL demonstration to provide a practical&#160;roadmap to enable adoption and implementation of mDLs for online financial account management.&#160;"
+    },
+    {
+      "series": "SP",
+      "number": "1800-42",
+      "title": "Digital Identities \u2013 Mobile Driver\u2019s License (mDL)",
+      "status": "Draft",
+      "date": "11/19/2026",
+      "detail_path": "/pubs/sp/1800/42/2pd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/1800/42/2pd",
+      "pdf_url": "https://www.nccoe.nist.gov/sites/default/files/2026-11/nist-sp-1800-42-2pd.pdf",
+      "description": "Mobile Driver\u2019s Licenses, and Verifiable Digital Credentials more broadly, represent an emerging&#160;technology with the capability to enhance the methods used to prove identity both in-person and online. Many sectors stand to benefit from this emerging technology seeking to enhance the security, privacy, usability, and reliability of online identity services. This practice guide provides foundational information and considerations for any organizations adopting Verifiable Digital Credentials. It serves as the base document for the NIST SP 1800-42 series, which captures insights generated through engagement with a robust cohort of industry collaborators and the lessons learned by developing&#160;functional online mDL demonstrations for various use cases."
     },
     {
       "series": "SP",
@@ -10204,23 +10226,23 @@
       "series": "SP",
       "number": "800-133 Rev. 1",
       "title": "Recommendation for Cryptographic Key Generation",
+      "status": "Withdrawn",
+      "date": "7/23/2019",
+      "detail_path": "/pubs/sp/800/133/r1/final",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/133/r1/final",
+      "pdf_url": null,
+      "description": ""
+    },
+    {
+      "series": "SP",
+      "number": "800-133 Rev. 1",
+      "title": "Recommendation for Cryptographic Key Generation",
       "status": "Draft",
       "date": "3/06/2019",
       "detail_path": "/pubs/sp/800/133/r1/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/133/r1/ipd",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133r1-draft.pdf",
       "description": "Cryptography is often used in an information technology security environment to protect data that is sensitive, has a high value, or is vulnerable to unauthorized disclosure or undetected modification during transmission or while in storage. &#160;Cryptography relies upon two basic components: an algorithm (or cryptographic methodology) and a cryptographic key. &#160;This Recommendation discusses the generation of the keys to be managed and used by the approved cryptographic algorithms."
-    },
-    {
-      "series": "SP",
-      "number": "800-133 Rev. 1",
-      "title": "Recommendation for Cryptographic Key Generation",
-      "status": "Withdrawn",
-      "date": "7/23/2019",
-      "detail_path": "/pubs/sp/800/133/r1/final",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/133/r1/final",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-133r1.pdf",
-      "description": "Cryptography is often used in an information technology security environment to protect data that is sensitive, has a high value, or is vulnerable to unauthorized disclosure or undetected modification during transmission or while in storage. Cryptography relies upon two basic components: an algorithm (or cryptographic methodology) and a cryptographic key. This Recommendation discusses the generation of the keys to be managed and used by the approved cryptographic algorithms."
     },
     {
       "series": "SP",
@@ -11429,8 +11451,8 @@
       "date": "6/19/2019",
       "detail_path": "/pubs/sp/800/171/b/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/171/b/ipd",
-      "pdf_url": "/files/pubs/sp/800/171/b/ipd/docs/sp800-171b-draft-ipd.pdf",
-      "description": "The protection of Controlled Unclassified Information (CUI) resident in nonfederal systems and organizations is of paramount importance to federal agencies and can directly impact the ability of the federal government to successfully conduct its essential missions and functions. This publication provides federal agencies with recommended enhanced security requirements for protecting the confidentiality of CUI: (1) when the information is resident in nonfederal systems and organizations; (2) when the nonfederal organization is not collecting or maintaining information on behalf of a federal agency or using or operating a system on behalf of an agency; and (3) where there are no specific safeguarding requirements for protecting the confidentiality of CUI prescribed by the authorizing law, regulation, or governmentwide policy for the CUI category listed in the CUI Registry. The enhanced requirements apply only to components of nonfederal systems that process, store, or transmit CUI, or..."
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "SP",
@@ -11462,8 +11484,8 @@
       "date": "9/29/2025",
       "detail_path": "/pubs/sp/800/172/r3/fpd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/172/r3/fpd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-172r3.fpd.pdf",
-      "description": "The protection of Controlled Unclassified Information (CUI) resident in nonfederal systems and organizations is of paramount importance to federal agencies and can directly impact the ability of the Federal Government to successfully conduct its essential missions and functions. This publication provides federal agencies with recommended security requirements for protecting the confidentiality, integrity, and availability of CUI when it is resident in a nonfederal system and organization and associated with a critical program or high value asset (HVA). The security requirements apply to the components of nonfederal systems that process, store, or transmit CUI or that provide protection for such components. The enhanced security requirements are intended for use by federal agencies in contractual vehicles or other agreements established between those agencies and nonfederal organizations."
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "SP",
@@ -11583,8 +11605,8 @@
       "date": "7/03/2019",
       "detail_path": "/pubs/sp/800/175/b/r1/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/175/b/r1/ipd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-175Br1-draft.pdf",
-      "description": "This document is intended to provide guidance to the Federal Government for using cryptography and NIST\u2019s cryptographic standards to protect sensitive, but unclassified digitized information during transmission and while in storage. The cryptographic methods and services to be used are discussed."
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "SP",
@@ -12360,23 +12382,23 @@
       "series": "SP",
       "number": "800-205",
       "title": "Attribute Considerations for Access Control Systems",
+      "status": "Final",
+      "date": "6/18/2019",
+      "detail_path": "/pubs/sp/800/205/final",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/205/final",
+      "pdf_url": null,
+      "description": ""
+    },
+    {
+      "series": "SP",
+      "number": "800-205",
+      "title": "Attribute Considerations for Access Control Systems",
       "status": "Draft",
       "date": "2/13/2019",
       "detail_path": "/pubs/sp/800/205/ipd",
       "detail_url": "https://csrc.nist.gov/pubs/sp/800/205/ipd",
       "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205-draft.pdf",
       "description": "This document provides federal agencies with a guide for implementing attributes for use in access control systems. Attributes enable a logical access control methodology where authorization to perform a set of operations is determined by evaluating attributes associated with the subject, object, requested operations, and, in some cases, environmental conditions against policy, rules, or relationships that describe the allowable operations for a given set of attributes. This document outlines factors which influence attributes that an authoritative body must address when standardizing an attribute system and proposes some notional implementation suggestions for consideration."
-    },
-    {
-      "series": "SP",
-      "number": "800-205",
-      "title": "Attribute Considerations for Access Control Systems",
-      "status": "Final",
-      "date": "6/18/2019",
-      "detail_path": "/pubs/sp/800/205/final",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/205/final",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205.pdf",
-      "description": "This document provides federal agencies with a guide for implementing attributes in access control systems. Attributes enable a logical access control methodology where authorization to perform a set of operations is determined by evaluating attributes associated with the subject, object, requested operations, and, in some cases, environment conditions against policy, rules, or relationships that describe the allowable operations for a given set of attributes. This document outlines factors which influence attributes that an authoritative body must address when standardizing an attribute system and proposes some notional implementation suggestions for consideration."
     },
     {
       "series": "SP",
@@ -12965,22 +12987,22 @@
       "series": "SP",
       "number": "800-227",
       "title": "Recommendations for Key-Encapsulation Mechanisms",
-      "status": "Draft",
-      "date": "1/07/2025",
-      "detail_path": "/pubs/sp/800/227/ipd",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/227/ipd",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-227.ipd.pdf",
-      "description": "A key-encapsulation mechanism (KEM) is a set of algorithms that can be used by two parties under certain conditions to securely establish a shared secret key over a public channel. A shared secret key that is established using a KEM can then be used with symmetric-key cryptographic algorithms to perform essential tasks in secure communications, such as encryption and authentication. This document describes the basic definitions, properties, and applications of KEMs. It also provides recommendations for implementing and using KEMs in a secure manner."
+      "status": "Final",
+      "date": "9/18/2025",
+      "detail_path": "/pubs/sp/800/227/final",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/227/final",
+      "pdf_url": null,
+      "description": ""
     },
     {
       "series": "SP",
       "number": "800-227",
       "title": "Recommendations for Key-Encapsulation Mechanisms",
-      "status": "Final",
-      "date": "9/18/2025",
-      "detail_path": "/pubs/sp/800/227/final",
-      "detail_url": "https://csrc.nist.gov/pubs/sp/800/227/final",
-      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-227.pdf",
+      "status": "Draft",
+      "date": "1/07/2025",
+      "detail_path": "/pubs/sp/800/227/ipd",
+      "detail_url": "https://csrc.nist.gov/pubs/sp/800/227/ipd",
+      "pdf_url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-227.ipd.pdf",
       "description": "A key-encapsulation mechanism (KEM) is a set of algorithms that can be used by two parties under certain conditions to securely establish a shared secret key over a public channel. A shared secret key that is established using a KEM can then be used with symmetric-key cryptographic algorithms to perform essential tasks in secure communications, such as encryption and authentication. This document describes the basic definitions, properties, and applications of KEMs. It also provides recommendations for implementing and using KEMs in a secure manner."
     },
     {
