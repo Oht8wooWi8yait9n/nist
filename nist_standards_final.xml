@@ -751,7 +751,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/files/pubs/ir/7275/r4/upd1/final/docs/nistir-7275r4_updated-march-2012_clean.pdf</loc>
+    <loc>https://csrc.nist.gov/files/pubs/ir/7275/r4/upd1/final/docs/nistir-7275r4_updated-march-2012_clean.pdf</loc>
     <lastmod>2012-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -771,6 +771,12 @@
   <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7290.pdf</loc>
     <lastmod>2006-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.7298r3.pdf</loc>
+    <lastmod>2019-07-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1431,6 +1437,12 @@
   <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8179.pdf</loc>
     <lastmod>2018-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8183.pdf</loc>
+    <lastmod>2019-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -2241,6 +2253,12 @@
   <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-11.pdf</loc>
     <lastmod>2020-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1800-12.pdf</loc>
+    <lastmod>2019-08-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -3169,6 +3187,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-205.pdf</loc>
+    <lastmod>2019-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-206.pdf</loc>
     <lastmod>2020-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -3301,6 +3325,12 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-227.pdf</loc>
+    <lastmod>2025-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-228-upd1.pdf</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -3379,14 +3409,14 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a-add.pdf</loc>
-    <lastmod>2010-10-21</lastmod>
+    <loc>https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf</loc>
+    <lastmod>2001-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a.pdf</loc>
-    <lastmod>2001-12-01</lastmod>
+    <loc>https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38a-add.pdf</loc>
+    <lastmod>2010-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
